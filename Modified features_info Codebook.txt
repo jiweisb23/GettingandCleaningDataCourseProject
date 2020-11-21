@@ -1,3 +1,5 @@
+This is the source information given as part of the course project. My modifications described at the bottom
+
 Feature Selection 
 =================
 
