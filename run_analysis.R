@@ -114,5 +114,5 @@ for(nm in names(DF)){
 }
 
 
-write.table(Step5tidyDataSet, "Step5TidyDataset", row.names = FALSE)
+write.table(Step5tidyDataSet, "Step5TidyDataset.txt", row.names = FALSE)
 
